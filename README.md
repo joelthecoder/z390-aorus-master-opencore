@@ -6,7 +6,6 @@
 - Gigabyte Z390 Aorus Master (bios F11c)
 - Intel i7-9700K (8) @ 3.60GHz (Coffee Lake)
 - 32GB Corsair CMW32GX4M2C3200C16 Vengeance RGB PRO 32GB (2x16GB) DDR4 3200
-- 1 x Gigabyte Radeon RX Vega 56
 - 1 x XPG SX8200 Pro 1TB 3D NAND NVMe (Windows 11)
 - 1 x Samsung 980 Series 1TB PCIe Gen3. X4 NVMe (macOS Monterey)
 - 1 x Seagate 4TB Backup HD
