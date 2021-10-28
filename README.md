@@ -13,6 +13,8 @@
 - 1 x Radeon™ RX VEGA 56 GAMING OC 8G
 - 1 x ROG-STRIX-RTX 3080-O10G-GAMING
 
+[Using OpenCore v0.7.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.4)
+
 ## Guide
 - [Dortania OpenCore Installation Guide](https://dortania.github.io/OpenCore-Install-Guide/)
   - [Coffee Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
