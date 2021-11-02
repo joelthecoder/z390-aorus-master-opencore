@@ -138,6 +138,7 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data>
+				
 				</data>
 				<key>Replace</key>
 				<data>
@@ -145,6 +146,7 @@
 				</data>
 				<key>ReplaceMask</key>
 				<data>
+				
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
@@ -184,6 +186,8 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
 			<false/>
 			<key>SignalAppleOS</key>
@@ -417,9 +421,11 @@
 		<dict>
 			<key>Cpuid1Data</key>
 			<data>
+			
 			</data>
 			<key>Cpuid1Mask</key>
 			<data>
+			
 			</data>
 			<key>DummyPowerManagement</key>
 			<false/>
@@ -466,6 +472,7 @@
 				<false/>
 				<key>Find</key>
 				<data>
+				
 				</data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleRTC</string>
@@ -473,6 +480,7 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data>
+				
 				</data>
 				<key>MaxKernel</key>
 				<string></string>
@@ -484,6 +492,7 @@
 				</data>
 				<key>ReplaceMask</key>
 				<data>
+				
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
@@ -501,6 +510,7 @@
 				<false/>
 				<key>Find</key>
 				<data>
+				
 				</data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleRTC</string>
@@ -508,6 +518,7 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data>
+				
 				</data>
 				<key>MaxKernel</key>
 				<string></string>
@@ -519,6 +530,7 @@
 				</data>
 				<key>ReplaceMask</key>
 				<data>
+				
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
@@ -536,6 +548,7 @@
 				<false/>
 				<key>Find</key>
 				<data>
+				
 				</data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleACPIPlatform</string>
@@ -543,6 +556,7 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data>
+				
 				</data>
 				<key>MaxKernel</key>
 				<string>18.5.0</string>
@@ -554,6 +568,7 @@
 				</data>
 				<key>ReplaceMask</key>
 				<data>
+				
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
@@ -591,6 +606,7 @@
 				</data>
 				<key>ReplaceMask</key>
 				<data>
+				
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
@@ -748,9 +764,11 @@
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
 			<data>
+			
 			</data>
 			<key>PasswordSalt</key>
 			<data>
+			
 			</data>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
@@ -789,7 +807,7 @@
 				<key>Comment</key>
 				<string>CleanNvram.efi</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Flavour</key>
 				<string>CleanNvram</string>
 				<key>Name</key>
@@ -884,6 +902,7 @@
 				<string>01</string>
 				<key>rtc-blacklist</key>
 				<data>
+				
 				</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -1206,6 +1225,8 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
