@@ -9,11 +9,11 @@
 - 1 x MQUPIN Fenvi T919 Desktop Wireless WiFi Adapter for macOS (BCM94360CD)
 - 1 x XPG SX8200 Pro 1TB 3D NAND NVMe (Windows 11)
 - 1 x Samsung 980 Series 1TB PCIe Gen3. X4 NVMe (macOS Monterey)
-- 1 x Seagate 4TB Backup HD
+- 1 x Seagate 4TB Backup HDD
 - 1 x Radeon™ RX VEGA 56 GAMING OC 8G — Slot #1
-- 1 x ROG-STRIX-RTX 3080-O10G-GAMING (Disabled in macOS) — Slot #2
+- 1 x ROG-STRIX-RTX 3080-O10G-GAMING ([Disabled in macOS](https://github.com/joelthecoder/z390-aorus-master-opencore/commit/120f6618d19da87f12fd94ad9dd03d9637bc2dc6)) — Slot #2
 
-[Using OpenCore v0.7.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.5)
+[Using OpenCore v0.7.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.6)
 
 ## Guide
 - [Dortania OpenCore Installation Guide](https://dortania.github.io/OpenCore-Install-Guide/)
