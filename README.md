@@ -1,5 +1,9 @@
 # z390-aorus-master-opencore
 
+## Deprecated
+
+This project is no longer being maintained as I've decided to move to Apple silicon.
+
 ![About This Mac](resources/images/about-this-mac.png)
 
 ## My Hardware
